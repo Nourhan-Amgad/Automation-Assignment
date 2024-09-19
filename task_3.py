@@ -10,7 +10,7 @@ Original file is located at
 #Load the data inside the provided CSV file into a Data Frame
 import pandas as pd
 
-df = pd.read_csv('Employees (1).csv')
+df = pd.read_csv('Employees.csv')
 
 print(df)
 
